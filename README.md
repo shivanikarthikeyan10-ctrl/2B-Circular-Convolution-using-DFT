@@ -52,11 +52,11 @@ title('circular convolution');
 ```
 
 ### CALCULATIONS:
-<img width="1430" height="1600" alt="image" src="https://github.com/user-attachments/assets/2bafcee8-a992-4634-8d9d-b2317ea34d31" />
+<img width="1068" height="1600" alt="image" src="https://github.com/user-attachments/assets/51467c80-6c5c-4536-b69d-880ecf1334ab" />
 
 
 ### SAMPLE OUTPUT:
-<img width="1385" height="636" alt="image" src="https://github.com/user-attachments/assets/72140cb9-2f00-4d32-a500-971ba441345d" />
+<img width="1042" height="1600" alt="image" src="https://github.com/user-attachments/assets/b57796f0-ed19-4992-b865-71b267a560f5" />
 
 
 
